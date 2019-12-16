@@ -1,0 +1,31 @@
+#line3 img {
+    width: 30%;
+    margin: 1.66%;
+    float: left;
+  }
+  
+  #line4 img {
+    width: 22%;
+    margin: 1.5%;
+    float: left;
+  }
+  #line5 img {
+    width: 17%;
+    margin: 1.5%;
+    float: left;
+  }
+  .clearfix {
+    clear: both;
+  }
+  
+  p {
+    text-transform: uppercase;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 1.66%;
+    border-bottom: 2px solid #0b3a80;
+    width: 30%;
+    padding-bottom: 30px;
+  }
+  

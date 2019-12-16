@@ -1,0 +1,15 @@
+body{
+    background: aliceblue;
+    color: #888888;
+}
+.navbar{
+    border-bottom: #888888 3px solid;
+    opacity: 0.8;
+}
+nav{
+    background: #5599FF;
+
+}
+.slider-item{
+    height: 400px;
+}
